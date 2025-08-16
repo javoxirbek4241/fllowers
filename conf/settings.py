@@ -38,6 +38,8 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'crud',
+    'card',
+    'order',
     'user_acc',
     'rest_framework',
     'rest_framework.authtoken',
